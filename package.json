@@ -1,6 +1,6 @@
 {
   "name": "@wangjiayan-study/test-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "lerna": "^5.4.3"
+  },
+  "dependencies": {
+    "file-exist": "^0.0.4"
   }
 }
